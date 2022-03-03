@@ -1,4 +1,4 @@
-Proyecto didactico: Arit-Básico
+Proyecto didactico: Aritmetico
 ===============================
 
 Por: Luis Eduardo Aguirre Fuentes
