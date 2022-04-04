@@ -1,4 +1,4 @@
-Proyecto didactico: Aritmetico
+Proyecto didactico: Aritmético
 ===============================
 
 Por: Luis Eduardo Aguirre Fuentes
